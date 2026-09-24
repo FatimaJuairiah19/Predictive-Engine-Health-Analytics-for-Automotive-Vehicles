@@ -24,8 +24,11 @@ The project uses a publicly available automotive engine dataset from Kaggle cont
 
 ## Dataset Characteristics
 Samples: Approximately 19,500
+
 Target: Engine Condition
+
 Target Type: Binary classification
+
 0: Normal
 1: Fault
 
